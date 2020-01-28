@@ -1,0 +1,40 @@
+C:\Users\Гарри\Documents\Visual Studio 2015\Projects\Многоугольники\Многоугольники\bin\Debug\Многоугольники.exe.config
+C:\Users\Гарри\Documents\Visual Studio 2015\Projects\Многоугольники\Многоугольники\obj\Debug\Многоугольники.csprojResolveAssemblyReference.cache
+C:\Users\Гарри\Documents\Visual Studio 2015\Projects\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Form1.resources
+C:\Users\Гарри\Documents\Visual Studio 2015\Projects\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Properties.Resources.resources
+C:\Users\Гарри\Documents\Visual Studio 2015\Projects\Многоугольники\Многоугольники\obj\Debug\Многоугольники.csproj.GenerateResource.Cache
+C:\Users\Гарри\Documents\Visual Studio 2015\Projects\Многоугольники\Многоугольники\bin\Debug\Многоугольники.exe
+C:\Users\Гарри\Documents\Visual Studio 2015\Projects\Многоугольники\Многоугольники\bin\Debug\Многоугольники.pdb
+C:\Users\Гарри\Documents\Visual Studio 2015\Projects\Многоугольники\Многоугольники\obj\Debug\Многоугольники.exe
+C:\Users\Гарри\Documents\Visual Studio 2015\Projects\Многоугольники\Многоугольники\obj\Debug\Многоугольники.pdb
+E:\Многоугольники\Многоугольники\bin\Debug\Многоугольники.exe.config
+E:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.exe
+E:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.pdb
+E:\Многоугольники\Многоугольники\bin\Debug\Многоугольники.exe
+E:\Многоугольники\Многоугольники\bin\Debug\Многоугольники.pdb
+E:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Properties.Resources.resources
+E:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.csproj.GenerateResource.Cache
+F:\Многоугольники\Многоугольники\bin\Debug\Многоугольники.exe.config
+F:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.exe
+F:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.pdb
+F:\Многоугольники\Многоугольники\bin\Debug\Многоугольники.exe
+F:\Многоугольники\Многоугольники\bin\Debug\Многоугольники.pdb
+F:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.csprojResolveAssemblyReference.cache
+F:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Form1.resources
+F:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Properties.Resources.resources
+F:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.csproj.GenerateResource.Cache
+D:\Многоугольники\Многоугольники\bin\Debug\Многоугольники.exe.config
+D:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.exe
+D:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.pdb
+D:\Многоугольники\Многоугольники\bin\Debug\Многоугольники.exe
+D:\Многоугольники\Многоугольники\bin\Debug\Многоугольники.pdb
+D:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.csprojResolveAssemblyReference.cache
+D:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Form1.resources
+D:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Properties.Resources.resources
+D:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.csproj.GenerateResource.Cache
+E:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Radius.resources
+D:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Radius.resources
+E:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Form2.resources
+D:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Form2.resources
+E:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.Form1.resources
+E:\Многоугольники\Многоугольники\obj\Debug\Многоугольники.csprojAssemblyReference.cache
